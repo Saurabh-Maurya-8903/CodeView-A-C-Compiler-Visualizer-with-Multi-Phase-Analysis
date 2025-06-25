@@ -57,7 +57,7 @@ This tool helps students and developers understand how source code is transforme
 |---------------------|-------------|--------------------------------------------|
 | Lexical Analysis     | ✅ Pass     | Works with various C input patterns        |
 | Syntax Analysis      | ✅ Pass     | Handles nested structures and conditionals |
-| Intermediate Code    | ⚠️ Partial | Loop support not fully integrated          |
+| Intermediate Code    | ✅ Pass | Loop support  fully integrated          |
 | UI Interaction       | ✅ Pass     | Fully responsive and interactive           |
 | Performance Test     | ✅ Pass     | Supports files up to 500 lines             |
 
